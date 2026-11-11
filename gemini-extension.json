@@ -1,0 +1,11 @@
+{
+  "name": "hubpost",
+  "version": "1.0.0",
+  "description": "Schedule and publish social media posts to Instagram, TikTok, YouTube, Facebook, LinkedIn, X, Threads, Pinterest and Bluesky, and check what is going out, right from your agent.",
+  "mcpServers": {
+    "hubpost": {
+      "httpUrl": "https://mcp.hubpost.co/mcp",
+      "description": "Official HubPost MCP server (hosted, streamable HTTP). Gemini CLI opens a browser to sign in to HubPost. No API key or local install needed."
+    }
+  }
+}

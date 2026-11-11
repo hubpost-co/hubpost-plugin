@@ -24,6 +24,12 @@ Works with Instagram, TikTok, YouTube, Facebook, LinkedIn, X, Threads, Pinterest
 
 The first time the agent calls a tool you are asked to sign in with your HubPost account through OAuth and approve access. Your agent never sees your password or your social platform tokens. A free plan is available at [hubpost.co/pricing](https://hubpost.co/pricing).
 
+## Gemini CLI
+
+```bash
+gemini extensions install https://github.com/hubpost-co/hubpost-plugin
+```
+
 ## Other agents
 
 The same server works in Claude, ChatGPT, Claude Code, Gemini CLI and any client that supports remote MCP. See [hubpost.co/mcp](https://hubpost.co/mcp).

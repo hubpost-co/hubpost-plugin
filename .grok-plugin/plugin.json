@@ -8,7 +8,7 @@
     "email": "support@hubpost.co"
   },
   "homepage": "https://hubpost.co/mcp",
-  "repository": "https://github.com/hubpost-co/cursor-plugin",
+  "repository": "https://github.com/hubpost-co/hubpost-plugin",
   "license": "MIT",
   "logo": "assets/logo.svg",
   "keywords": [
