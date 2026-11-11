@@ -12,22 +12,12 @@
   "license": "MIT",
   "logo": "assets/logo.svg",
   "keywords": [
-    "social media scheduler",
-    "schedule posts",
-    "content calendar",
-    "instagram",
-    "tiktok",
-    "linkedin",
-    "youtube",
-    "mcp"
+    "hubpost",
+    "hubpost mcp",
+    "hubpost plugin",
+    "hubpost social"
   ],
   "skills": [
     "./skills/hubpost"
-  ],
-  "mcpServers": {
-    "hubpost": {
-      "type": "http",
-      "url": "https://mcp.hubpost.co/mcp"
-    }
-  }
+  ]
 }

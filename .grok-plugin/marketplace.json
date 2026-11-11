@@ -16,17 +16,14 @@
       },
       "homepage": "https://hubpost.co/mcp",
       "keywords": [
-        "social media scheduler",
-        "schedule posts",
-        "content calendar",
-        "instagram",
-        "tiktok",
-        "linkedin",
-        "youtube",
-        "mcp"
+        "hubpost",
+        "hubpost mcp",
+        "hubpost plugin",
+        "hubpost social"
       ],
       "domains": [
-        "hubpost.co"
+        "hubpost.co",
+        "mcp.hubpost.co"
       ]
     }
   ]

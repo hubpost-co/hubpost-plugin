@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hubpost": {
+      "type": "http",
+      "url": "https://mcp.hubpost.co/mcp"
+    }
+  }
+}
