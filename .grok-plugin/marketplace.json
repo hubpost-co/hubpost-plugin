@@ -1,0 +1,33 @@
+{
+  "name": "hubpost",
+  "description": "Schedule and publish social media posts to Instagram, TikTok, YouTube, Facebook, LinkedIn, X, Threads, Pinterest and Bluesky, and check what is going out, right from your agent.",
+  "owner": {
+    "name": "HubPost",
+    "email": "support@hubpost.co"
+  },
+  "plugins": [
+    {
+      "name": "hubpost",
+      "description": "Schedule and publish social media posts to Instagram, TikTok, YouTube, Facebook, LinkedIn, X, Threads, Pinterest and Bluesky, and check what is going out, right from your agent.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./"
+      },
+      "homepage": "https://hubpost.co/mcp",
+      "keywords": [
+        "social media scheduler",
+        "schedule posts",
+        "content calendar",
+        "instagram",
+        "tiktok",
+        "linkedin",
+        "youtube",
+        "mcp"
+      ],
+      "domains": [
+        "hubpost.co"
+      ]
+    }
+  ]
+}
