@@ -24,6 +24,12 @@ Works with Instagram, TikTok, YouTube, Facebook, LinkedIn, X, Threads, Pinterest
 
 The first time the agent calls a tool you are asked to sign in with your HubPost account through OAuth and approve access. Your agent never sees your password or your social platform tokens. A free plan is available at [hubpost.co/pricing](https://hubpost.co/pricing).
 
+## Claude Code
+
+```bash
+/plugin install hubpost --marketplace hubpost-co/hubpost-plugin
+```
+
 ## Gemini CLI
 
 ```bash
